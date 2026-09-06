@@ -56,3 +56,4 @@ Machine Learning • Data Analytics • Software Development • SQL
 ## CONNECT
 
 [LinkedIn](https://www.linkedin.com/in/ayush-sarkar-00016b278/)
+[Email](mailto:excusme2004@gmail.com)  
