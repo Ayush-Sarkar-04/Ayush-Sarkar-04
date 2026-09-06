@@ -1,16 +1,58 @@
-## Hi there 👋
+# AYUSH SARKAR
 
-<!--
-**Ayush-Sarkar-04/Ayush-Sarkar-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | Python | Machine Learning | Data Analytics
 
-Here are some ideas to get you started:
+I build practical projects across software development, data engineering,
+machine learning, deep learning, and analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ABOUT ME
+
+- Computer Science student interested in technology and problem solving
+- Interested in machine learning, data analytics, and software development
+- Enjoy building practical projects using real-world datasets
+- Continuously learning and experimenting with new technologies
+
+## TECH STACK
+
+**Languages**
+
+Python • SQL • C/C++
+
+**Data & Machine Learning**
+
+Pandas • NumPy • Scikit-learn • Matplotlib • Jupyter
+
+**Development & Tools**
+
+Streamlit • Git • GitHub • VS Code
+
+## FEATURED PROJECTS
+
+### Customer Churn Prediction & Campaign Analytics
+
+Machine learning system for customer churn prediction, risk scoring,
+and marketing campaign analytics.
+
+**Tech:** Python • Pandas • Scikit-learn • SQL • Streamlit
+
+### Global Banks Data ETL
+
+End-to-end ETL pipeline for extracting, transforming, and processing
+global banking data using Python, Pandas, and SQL.
+
+**Tech:** Python • Pandas • BeautifulSoup • NumPy • SQLite • SQL
+
+### Stock Price Prediction Using LSTM
+
+Time-series forecasting project comparing traditional approaches
+with an LSTM neural network for stock price prediction.
+
+**Tech:** Python • Pandas • NumPy • TensorFlow • Scikit-learn • Matplotlib
+
+## CURRENTLY LEARNING
+
+Machine Learning • Data Analytics • Software Development • SQL
+
+## CONNECT
+
+[LinkedIn](https://www.linkedin.com/in/ayush-sarkar-00016b278/)
